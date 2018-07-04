@@ -1,0 +1,22 @@
+{
+  "name": "testPodSpec",
+  "version": "0.1.0",
+  "summary": "A short description of testPodSpec.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/littledou2013/testPodSpec",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "littledou2013": "chenxiaoshuang@qingting.fm"
+  },
+  "source": {
+    "git": "https://github.com/littledou2013/testPodSpec.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testPodSpec/Classes/**/*"
+}
